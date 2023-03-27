@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './styles/App.css';
 import PostviewContext from './contexts/PostviewContext';
 import AppRouter from './components/AppRouter';
 
